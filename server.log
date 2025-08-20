@@ -1,0 +1,43 @@
+nohup: ignoring input
+10.60.37.1 - - [18/Jul/2025 14:02:32] "HEAD / HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:02:32] "GET / HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:02:40] "GET /config.json HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:02:40] "GET /favicon.ico HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:02:47] "HEAD /config.json HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:02:56] "GET /config.json HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:03:14] "HEAD / HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:03:14] "GET / HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:03:47] "GET /config.json HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:47] code 501, message Unsupported method ('POST')
+10.60.37.1 - - [18/Jul/2025 14:03:47] "POST /cdn-cgi/rum? HTTP/1.1" 501 -
+10.60.37.1 - - [18/Jul/2025 14:03:47] code 404, message File not found
+10.60.37.1 - - [18/Jul/2025 14:03:47] "GET /styles/privacy.components.css HTTP/1.1" 404 -
+10.60.37.1 - - [18/Jul/2025 14:03:48] code 501, message Unsupported method ('POST')
+10.60.37.1 - - [18/Jul/2025 14:03:48] "POST /cdn-cgi/rum? HTTP/1.1" 501 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET / HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/css/perfil.css HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/css/app.css HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /styles/privacy.components.skeleton.css HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/css/core.css HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/css/checkout.css HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/css/privacy.css HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/img/logo/logo.svg HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/js/clarity.js HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /webcomponents/privacy-web-wc-loader/privacy-web-wc-loader.umd.js HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/img/logo/logo_branco.svg HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/js/global.js HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/fontawesomeV6/svgs/light/globe.svg HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/fontawesome/css/all.min.css HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:56] "GET /assets/js/mainv2.js HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] "GET /assets/fonts/Inter/Inter-Regular.ttf HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] "GET /config.json HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] "GET /webcomponents/privacy-web-user-info/privacy-web-user-info.umd.js?v=20250617171018033Z HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] code 404, message File not found
+10.60.37.1 - - [18/Jul/2025 14:03:57] "GET /styles/privacy.components.css HTTP/1.1" 404 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] "GET /banner.jpg HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] "GET /avatar_2.jpg HTTP/1.1" 200 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] code 501, message Unsupported method ('POST')
+10.60.37.1 - - [18/Jul/2025 14:03:57] "POST /cdn-cgi/rum? HTTP/1.1" 501 -
+10.60.37.1 - - [18/Jul/2025 14:03:57] "GET /webcomponents/privacy-web-registration-simplifiedpersonaldata/privacy-web-registration-simplifiedpersonaldata.umd.js?v=20250617171018033Z HTTP/1.1" 304 -
+10.60.37.1 - - [18/Jul/2025 14:03:59] code 501, message Unsupported method ('POST')
+10.60.37.1 - - [18/Jul/2025 14:03:59] "POST /cdn-cgi/rum? HTTP/1.1" 501 -
